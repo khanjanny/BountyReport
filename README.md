@@ -2,12 +2,12 @@
 <h3 align="center">Make your bug bounty report easy and fast</h3>
 
 
-## Demo Template
+### Demo Template
 
 ![Demo Template](templ.png)
 
 
-## Demo Report
+### Demo Report
 
 ![Demo Report](xss_.png)
 
