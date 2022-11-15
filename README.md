@@ -4,10 +4,10 @@
 
 ## Demo Template
 
-![Demo Template](screenshots/templ.png)
+![Demo Template](templ.png)
 
 
 ## Demo Report
 
-![Demo Report](screenshots/xss_.png)
+![Demo Report](xss_.png)
 
